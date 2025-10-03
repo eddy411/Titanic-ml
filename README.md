@@ -1,2 +1,1 @@
-The titanic survival model I just built
-
+Predict survival of Titanic passengers with logistic regression.
